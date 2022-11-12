@@ -29,10 +29,8 @@
 💻 Blockchain and Web Programmer<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
 ❤️ Sports & Code<br>
-📜 My skype id is live:.cid.c00f176d23eddccf. Please contact me if you want. <br>
 💬 Grab coffee and let's talk about technology and livestyle<br>
 📝 Favourite Quote : Trust, Perfect Development!<br>
-📫 Reach me at wittyangel27@gmail.com <br>
 
 ---
 
