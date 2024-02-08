@@ -25,6 +25,8 @@
 
 ### Facts about me:<br>
 
+Email: wittyangel27@gmail.com
+
 👧 Fullstack Developer
 💻 Blockchain and Web Programmer<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
