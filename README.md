@@ -11,12 +11,14 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code> 
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code> 
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"> </code> 
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> </code>   
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>   
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> </code>   
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> </code>   
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> </code>   
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>   
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> </code>   
  
   </p>
  </div> 
